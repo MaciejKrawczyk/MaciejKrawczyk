@@ -14,10 +14,6 @@ I have almost 5 years in experience in jewelry production and 3D design, which I
 - **Languages:** TypeScript, JavaScript, Python
 - **Tools:** Docker
 
-## I’m currently learning
-- Advanced architectural patterns for scalable applications
-- Data structures and algorythms
-
 ## Hobbies
 - 🎸 Playing guitar
 - 🌱 Constantly learning and improving my skills
