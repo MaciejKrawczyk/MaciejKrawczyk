@@ -3,7 +3,7 @@
 I'm a Fullstack Developer with a strong focus on building scalable SaaS applications. With expertise in **React**, **Next.js**, **Vue**, **Three.js**, **TypeScript**, **Python**, and relational databases like **PostgreSQL** and **MySQL**, I bring dynamic solutions to the table. My educational background in **Automation and Robotics** enhances my ability to innovate and automate efficiently.
 I have almost 5 years in experience in jewelry production and 3D design, which I proudly show in my project [FusionAlfa](https://fusionalfa.com).
 
-🌍 Based in Opole <br>
+🌍 Based in Kraków <br>
 🔭 Open for work and looking to contribute to exciting SaaS projects. <br>
 🎓 Graduated with a degree in Automation and Robotics. <br>
 
